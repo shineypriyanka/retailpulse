@@ -1,0 +1,9 @@
+segment,count,avg_recency,avg_frequency,avg_monetary,total_revenue
+At Risk,17436,277.38,1.04,163.09,2843609.79
+Big Spenders,5654,366.73,1.0,267.64,1513214.75
+Cant Lose Them,17408,451.2,1.04,164.88,2870198.76
+Champions,11710,57.4,1.08,177.13,2074175.14
+Hibernating,2967,276.99,1.0,63.8,189293.6
+Lost,3044,451.01,1.0,63.7,193908.47
+Loyal Customers,23458,139.22,1.04,164.55,3860015.17
+Potential Loyalists,11673,112.71,1.0,160.54,1873979.15
