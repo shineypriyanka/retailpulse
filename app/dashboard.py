@@ -5,7 +5,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import os
 
-os.chdir(r"E:\retailpulse")
 
 st.set_page_config(
     page_title="RetailPulse | AI Analytics",
